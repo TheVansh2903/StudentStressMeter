@@ -1,9 +1,3 @@
-"""Interactive Streamlit interface for student_stress_xgb.json.
-
-Run from this folder with:
-    streamlit run stress_app.py
-"""
-
 from pathlib import Path
 
 import pandas as pd
